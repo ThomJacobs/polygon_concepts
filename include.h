@@ -1,0 +1,7 @@
+#ifndef POLYGON_PHYSICS_INCLUDE_H
+#define POLYGON_PHYSICS_INCLUDE_H
+
+// Includes:
+
+
+#endif // !POLYGON_PHYSICS_INCLUDE_H
